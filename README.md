@@ -34,9 +34,11 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; 
-  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/css3/css3-original.svg" title="css" alt="css" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/html5/html5-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-      
+  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/css3/css3-original.svg" title="css" alt="css"   width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Thomas-Boi/devicon/ac5f98152afda508ba2f1217f6b8ca7ef7b6a4f2/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
